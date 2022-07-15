@@ -1,5 +1,5 @@
 import static org.json.simple.FizzbuzzEx3.fizzBuzz;
-
+//import methods from other
 public class FizzbuzzEx1 {
 
     static void instances(int num1, int num2) {
@@ -29,7 +29,6 @@ public class FizzbuzzEx1 {
 
     }
 
-    //check
     public static void main (String[] args) {
        instances(0, 2);
        instances(15, 30);
